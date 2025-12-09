@@ -1,0 +1,7 @@
+{
+  "name": "Magic Christmas Particles",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures. Form a Christmas tree, scatter particles, and interact with memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
